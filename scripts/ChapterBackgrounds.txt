@@ -1,0 +1,21 @@
+    "chapters"
+    {
+            1       "background_upward"
+            2       "background_01"
+            3       "background_02"
+            4       "background_mvm" 
+	    5       "background_gravelpit"
+            6       "background_2fort"
+            7       "background_doublecross"
+    }
+
+
+    "BackgroundMaps"    
+            1       "background_upward"
+            2       "background_01"
+            3       "background_02"
+            4       "background_mvm"
+	    5       "background_gravelpit"
+            6       "background_2fort"
+            7       "background_doublecross"
+    }
