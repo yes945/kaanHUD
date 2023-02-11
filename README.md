@@ -1,5 +1,5 @@
                                                                                                                                           
-![oie_Wi2vxdYErSXt](https://user-images.githubusercontent.com/76475272/218250748-00b88a67-3986-4184-8f03-238905e589e4.png)
+![11102813PUF45Rbt](https://user-images.githubusercontent.com/76475272/218250969-29aa7f67-5143-4ba3-9863-4af93f6ababe.jpg)
 
 
 
@@ -26,4 +26,17 @@
 
 
 
-Inspired by Quake Live HUD
+
+
+
+__Inspired by Quake Live HUD__
+
+
+
+
+__Credits__
+
+- Hypnotize
+- rbaxter 
+- selim (first user)
+
